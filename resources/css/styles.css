@@ -1,29 +1,112 @@
 .header{
-  background-color: lightblue;
+background-color: black;
   height: 200px;
-  width: 80%;
+  width: 1400px;
   margin: 0 auto;
 }
 
+.logo{
+  width: 1400px;
+  height: 177px;
+  background-image:url(../images/'DOVERS NEWS.png');
+}
+
+nav{
+  background-color: red;
+  width: 1400px;
+  height: 25px;
+text-align: center;
+}
+
+.line1{
+background-color: black;
+width: 1420px;
+height: 2px;
+margin: 0px auto;
+}
+
+.line2{
+background-color: black;
+  width: 1455px;
+height: 5px;
+margin: 0px auto;
+margin-top: 8px;
+}
+
 .content{
-background-color: darkred;
-height: 600px;
-width: 100%;
+/*background-color: darkred;*/
+height: 1000px;
+width: 1400px;
+margin: 0 auto;
 margin-top: 10px;
 }
 
 .column{
-background-color: grey;
-height: 550px;
-width: 250px;
-padding-left:  10px;
-
+/*background-color: red;*/
+height: 1000px;
+width: 466.6px;
+/*margin: 0px 16.6px;*/
+float: left;
 }
 
-.column{
-
+h2{
+  margin-top: 8px;
+  margin-bottom: 0px;
+text-align: center;
 }
 
-.column{
+p{
+  margin: 0px;
+}
 
+.story{
+  /*background-color: silver;*/
+ width:465.5px;
+ height: 499px;
+font-size: 15px;
+ /*margin:10px 0px;*/
+}
+
+p{
+  margin: 0px;
+}
+
+/* start of content2*/
+
+.content2{
+/*background-color: black;*/
+width: 1400px;
+height: 500px;
+margin: 0 auto;
+margin-top: 10px;
+}
+
+.side-artical{
+  /*background-color: darkred;*/
+  width: 200px;
+  height: 490px;
+ margin: 5px;
+margin-top: 8px;
+float:left;
+font-size: 25px;
+}
+
+.middle-artical{
+/*background-color: gold;*/
+  height: 490px;
+width:  970px;
+margin: 5px;
+margin-top: 8px;
+float: left;
+font-size: 25px;
+}
+
+
+.content3{
+/*background-color: red;*/
+width: 1400px;
+height: 500px;
+margin: 0 auto;
+font-size: 25px;
+font-style: italic;
 }
